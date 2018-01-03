@@ -1,0 +1,48 @@
+{
+  "name": "@discontinuity/react-native-network-image",
+  "version": "1.0.0",
+  "description": "React native component which show an image derived from an uri, with loading animation and error icon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Discontinuity-srl/react-native-network-image.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "image",
+    "network",
+    "ios",
+    "android",
+    "image from url",
+    "image url",
+    "network image"
+  ],
+  "author": "Discontinuity s.r.l.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Discontinuity-srl/react-native-network-image/issues"
+  },
+  "homepage": "https://github.com/Discontinuity-srl/react-native-network-image#readme",
+  "dependencies": {
+    "react-native-vector-icons": "^4.4.3"
+  },
+  "peerDependencies": {
+    "react": "^16.2.0",
+    "react-native": "0.51.0",
+    "prop-types": "^15.6.0"
+  },
+  "devDependencies": {
+    "react": "^16.2.0",
+    "react-native": "0.51.0",
+    "prop-types": "^15.6.0",
+    "babel-eslint": "^8.1.2",
+    "babel-preset-react-native": "4.0.0",
+    "eslint": "^4.14.0",
+    "eslint-plugin-react": "^7.5.1"
+  }
+}
